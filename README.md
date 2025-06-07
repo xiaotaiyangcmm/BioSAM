@@ -35,6 +35,8 @@ To perform inference with a trained model:
 ```shell
 python inference.py
 ```
+You can download the pretrained checkpoint (checkpoint.pth) from the following link:
+https://pan.baidu.com/s/18InvWLENrD8iq8_iuPhHKg?pwd=w7ix (Access code: w7ix)
 
 ## 📫 Contact
 
